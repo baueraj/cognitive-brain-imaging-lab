@@ -1,7 +1,7 @@
 # cognitive-brain-imaging-lab
 Materials for my lab course on cognitive brain imaging
 
-# Lab description and learning objectives
+# Lab description and learning objectives (from syllabus)
 
 In this lab, you will work with brain activation data in ways that you only read or hear about. You will gain handson
 experience with cutting-edge methods of analyzing and visualizing brain data—the technical details of which
