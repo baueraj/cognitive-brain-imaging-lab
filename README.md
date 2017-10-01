@@ -22,7 +22,7 @@ behavioral task;
 • Conduct “mind-reading” to infer what a person is thinking about based on distributed brain activation
 patterns;
 
-• Predict the brain activation pattern associated with thinking about a specific concept (the inverse of “mindreading”);
+• Predict the brain activation pattern associated with thinking about a specific concept (the inverse of “mind-reading”);
 and
 
 • State and elaborate on how the above data analysis methods complement each other
