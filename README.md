@@ -3,7 +3,7 @@ Materials for my lab course on cognitive brain imaging
 
 # Lab description and learning objectives (from syllabus)
 
-In this lab, you will work with brain activation data in ways that you only read or hear about. You will gain handson
+In this lab, you will work with brain activation data in ways that you only read or hear about. You will gain hands-on
 experience with cutting-edge methods of analyzing and visualizing brain data—the technical details of which
 you read about in textbooks—to perform such feats as predicting what a person is thinking about or feeling—
 headlines about which you see in the press, which trumpet sometimes triumph, sometimes peril, for society. In
